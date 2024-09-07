@@ -10,7 +10,7 @@ I've been learnig web development for 2 years.
 *   ✉️  You can contact me at [tj.emon33@gmail.com](mailto:tj.emon33@gmail.com)
 *   🧠  I'm learning Frontend Web Development
 *   🤝  I'm open to collaborating on Frontend web project
-*   ⚡  I love to code but dont tell anyone, It's a secret### Skills 
+*   ⚡  I love to code but dont tell anyone, It's a secret
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) 
