@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im a Frontend developer and UI/UX designer.
 --------------------------------------
 
-I've been learnig web development for 2 years.
+I've been learnig web development for 1.5 years.
 
 *   🌍  I'm based in Bangladesh , South Asia
 *   ✉️  You can contact me at [tj.emon33@gmail.com](mailto:tj.emon33@gmail.com)
