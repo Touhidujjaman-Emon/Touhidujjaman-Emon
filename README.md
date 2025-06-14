@@ -1,8 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Touhidujjaman Emon
 
-## I'm a Frontend developer and AI/ML enthusiast.
-
-I've been learning web development for 1.5 years.
+I'm a **Computer Science graduate**, Frontend developer, and AI/ML enthusiast with strong JavaScript and PHP fundamentals. I love breaking down complex problems into clean, maintainable code, thrive in collaborative environments, and enjoy learning new frameworks. I've been passionately building web applications for the past 1.5 years.
 
 * 🌍  I'm based in Bangladesh, South Asia
 * ✉️  You can contact me at [tj.emon33@gmail.com](mailto:tj.emon33@gmail.com)
@@ -12,7 +10,7 @@ I've been learning web development for 1.5 years.
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge\&logo=netlify\&logoColor=white)](https://tj-emon.netlify.app)
 
 # 💻 Tech Stack:
 
@@ -33,3 +31,4 @@ I've been learning web development for 1.5 years.
 [![](https://visitcount.itsvg.in/api?id=Touhidujjaman-Emon\&icon=5\&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
