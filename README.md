@@ -10,7 +10,7 @@ I'm a **Computer Science graduate**, Frontend developer, and AI/ML enthusiast wi
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) [![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9A%97-blue?logo=netlify\&logoColor=white)](https://tj-emon.netlify.app)]\([https://facebook.com/TouhidujjamanEmon33](https://facebook.com/TouhidujjamanEmon33)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) [![Portfolio](https://img.shields.io/badge/Portfolio-🔗?style=for-the-badge\&logo=netlify\&logoColor=white)](https://tj-emon.netlify.app)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) [![Portfolio](https://img.shields.io/badge/Portfolio-🔗?style=for-the-badge\&logo=netlify\&logoColor=white)](https://tj-emon.netlify.app)
 
 # 💻 Tech Stack:
 
