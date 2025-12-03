@@ -44,8 +44,8 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats (Simplified to prevent errors) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Touhidujjaman-Emon Stats" />
+  <!-- Main Stats (Simplified for speed) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&show_icons=true&theme=dark&hide_border=true&include_all_commits=false" alt="Touhidujjaman-Emon Stats" />
   
   <br/>
   
@@ -54,8 +54,8 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
   
   <br/>
   
-  <!-- Top Languages (Removed 'layout=compact' to fix loading issues) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon&theme=dark&hide_border=true&hide_progress=true" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🌐 Socials
@@ -72,7 +72,7 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
   </a>
 </p>
 
-<!-- New Reliable Visitor Counter -->
+<!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Touhidujjaman-Emon&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
