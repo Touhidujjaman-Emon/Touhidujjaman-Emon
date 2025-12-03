@@ -44,14 +44,18 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- General Stats (Fixed URL) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Touhidujjaman-Emon Stats" />
+  <!-- Main Stats (Simplified to prevent errors) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Touhidujjaman-Emon Stats" />
+  
   <br/>
-  <!-- Streak Stats (Updated from Heroku to DemoLab) -->
-  <img src="https://streak-stats.demolab.com?user=Touhidujjaman-Emon&theme=radical&hide_border=true" alt="Streak Stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Touhidujjaman-Emon&theme=dark&hide_border=true" alt="Streak Stats" />
+  
   <br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- Top Languages (Removed 'layout=compact' to fix loading issues) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon&theme=dark&hide_border=true&hide_progress=true" alt="Top Languages" />
 </p>
 
 ### 🌐 Socials
