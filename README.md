@@ -1,33 +1,69 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Touhidujjaman Emon
+# Hi there, I'm Touhidujjaman Emon! 👋
+### Full Stack Web Developer | JavaScript & React Enthusiast
 
-I'm a **Computer Science graduate**, Frontend developer, and AI/ML enthusiast with strong JavaScript and PHP fundamentals. I love breaking down complex problems into clean, maintainable code, thrive in collaborative environments, and enjoy learning new frameworks. I've been passionately building web applications for the past 1.5 years.
+I am a passionate **Full Stack Developer** from Bangladesh, focused on building scalable web applications with the **PERN stack (PostgreSQL, Express, React, Node)**. I love breaking down complex problems into clean, maintainable code and adding smooth interactions with GSAP.
 
-* 🌍  I'm based in Bangladesh, South Asia
-* ✉️  You can contact me at [tj.emon33@gmail.com](mailto:tj.emon33@gmail.com)
-* 🧠  I'm learning Frontend Web Development
-* 🤝  I'm open to collaborating on Frontend web projects
-* ⚡  I love to code but don't tell anyone, it's a secret
+Currently transitioning from Frontend mastery to advanced Backend Engineering with **Next.js** and **TypeScript**.
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/TouhidujjamanEmon33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/touhidujjaman-emon) [![Portfolio](https://img.shields.io/badge/Portfolio-🔗?style=for-the-badge\&logo=netlify\&logoColor=white)](https://tj-emon.netlify.app)
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-%23Green?style=for-the-badge\&logo=greensock\&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-%234C8BF9?style=for-the-badge\&logo=javascript\&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-%234C8BF9?style=for-the-badge\&logo=javascript\&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9?style=for-the-badge\&logo=webpack\&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23F9A61D?style=for-the-badge\&logo=vite\&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Touhidujjaman-Emon\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Touhidujjaman-Emon\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+- 🌍 Based in: **Chattogram, Bangladesh**
+- 💻 Currently focusing on: **Next.js, TypeScript, and Advanced Backend Patterns**
+- 🧠 Core Stack: **React.js, Node.js, PostgreSQL, Tailwind CSS**
+- ✉️ Contact: [tj.emon33@gmail.com](mailto:tj.emon33@gmail.com)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Touhidujjaman-Emon\&icon=5\&color=6)](https://visitcount.itsvg.in)
+### 🛠️ Languages & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  
+  <br />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
+
+  <br />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touhidujjaman-Emon&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/touhidujjaman-emon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tj-emon.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://facebook.com/TouhidujjamanEmon33" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<!-- Visits -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Touhidujjaman-Emon&icon=5&color=6" alt="Visitor Count" />
+</p>
