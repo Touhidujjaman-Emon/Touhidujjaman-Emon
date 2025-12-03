@@ -44,9 +44,14 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <!-- General Stats (Fixed URL) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Touhidujjaman-Emon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Touhidujjaman-Emon Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touhidujjaman-Emon&theme=tokyonight&hide_border=true" alt="Streak" />
+  <!-- Streak Stats (Updated from Heroku to DemoLab) -->
+  <img src="https://streak-stats.demolab.com?user=Touhidujjaman-Emon&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhidujjaman-Emon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🌐 Socials
@@ -63,7 +68,7 @@ Currently transitioning from Frontend mastery to advanced Backend Engineering wi
   </a>
 </p>
 
-<!-- Visits -->
+<!-- New Reliable Visitor Counter -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Touhidujjaman-Emon&icon=5&color=6" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Touhidujjaman-Emon&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
